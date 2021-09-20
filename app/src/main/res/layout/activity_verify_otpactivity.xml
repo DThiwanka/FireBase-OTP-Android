@@ -64,7 +64,7 @@
             <EditText
                 android:id="@+id/inputCode1"
                 android:layout_width="40dp"
-                android:layout_height="45dp"
+                android:layout_height="50dp"
                 android:gravity="center"
                 android:imeOptions="actionNext"
                 android:importantForAutofill="no"
@@ -77,8 +77,9 @@
             <EditText
                 android:id="@+id/inputCode2"
                 android:layout_width="40dp"
-                android:layout_height="45dp"
+                android:layout_height="50dp"
                 android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
                 android:gravity="center"
                 android:imeOptions="actionNext"
                 android:importantForAutofill="no"
@@ -87,14 +88,14 @@
                 android:textColor="@color/colorTextPrimary"
                 android:textSize="24sp"
                 android:textStyle="bold"
-                android:layout_marginLeft="4dp"
                 tools:ignore="LabelFor" />
 
             <EditText
                 android:id="@+id/inputCode3"
                 android:layout_width="40dp"
-                android:layout_height="45dp"
+                android:layout_height="50dp"
                 android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
                 android:gravity="center"
                 android:imeOptions="actionNext"
                 android:importantForAutofill="no"
@@ -103,14 +104,14 @@
                 android:textColor="@color/colorTextPrimary"
                 android:textSize="24sp"
                 android:textStyle="bold"
-                android:layout_marginLeft="4dp"
                 tools:ignore="LabelFor" />
 
             <EditText
                 android:id="@+id/inputCode4"
                 android:layout_width="40dp"
-                android:layout_height="45dp"
+                android:layout_height="50dp"
                 android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
                 android:gravity="center"
                 android:imeOptions="actionNext"
                 android:importantForAutofill="no"
@@ -119,14 +120,14 @@
                 android:textColor="@color/colorTextPrimary"
                 android:textSize="24sp"
                 android:textStyle="bold"
-                android:layout_marginLeft="4dp"
                 tools:ignore="LabelFor" />
 
             <EditText
                 android:id="@+id/inputCode5"
                 android:layout_width="40dp"
-                android:layout_height="45dp"
+                android:layout_height="50dp"
                 android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
                 android:gravity="center"
                 android:imeOptions="actionNext"
                 android:importantForAutofill="no"
@@ -135,14 +136,14 @@
                 android:textColor="@color/colorTextPrimary"
                 android:textSize="24sp"
                 android:textStyle="bold"
-                android:layout_marginLeft="4dp"
                 tools:ignore="LabelFor" />
 
             <EditText
                 android:id="@+id/inputCode6"
                 android:layout_width="40dp"
-                android:layout_height="45dp"
+                android:layout_height="50dp"
                 android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
                 android:gravity="center"
                 android:imeOptions="actionDone"
                 android:importantForAutofill="no"
@@ -151,11 +152,10 @@
                 android:textColor="@color/colorTextPrimary"
                 android:textSize="24sp"
                 android:textStyle="bold"
-                android:layout_marginLeft="4dp"
                 tools:ignore="LabelFor" />
 
 
-    </LinearLayout>
+        </LinearLayout>
 
 
             <LinearLayout

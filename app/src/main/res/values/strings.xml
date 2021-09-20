@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">firebaselogin</string>
     <string name="otp_verification">OTP Verification</string>
-    <string name="we_will_send_you_one_time_password_for_this_mobile_Number">We Will Send You One Time Password For This_mobile Number</string>
+    <string name="we_will_send_you_one_time_password_for_this_mobile_Number">We Will Send You One Time Password For This Mobile Number</string>
     <string name="enter_mobile_number">Enter Mobile Number</string>
     <string name="_91">+94</string>
-    <string name="_1234567890"> 1234567890</string>
+    <string name="_1234567890">-1234567890</string>
     <string name="get_otp">Get OTP</string>
     <string name="enter_the_otp_sent_to">Enter The OTP Sent to</string>
     <string name="i_didn_t_recive_the_otp">I Didn\'t Recive The OTP</string>
